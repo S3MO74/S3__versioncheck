@@ -2,7 +2,8 @@
     {
         "version": "1.0",
         "changelog": [
-            "Test This Versionchecker"
+            "Prompot Fix",
+            "Anythingelse :)"
         ],
         "updateFiles": [
             "fxmanifest.lua",
