@@ -1,14 +1,18 @@
 [
     {
-        "version": "1.0",
+        "version": "1.0.0",
         "changelog": [
-            "Prompot Fix",
-            "Anythingelse :)"
+            "Initial S3_npcdoc release"
         ],
         "updateFiles": [
             "fxmanifest.lua",
             "config.lua",
-            "client/client.lua"
+            "lang.lua",
+            "client/client.lua",
+            "server/server.lua",
+            "server/versionchecker.lua",
+            "README.md",
+            "TEBEX_SETUP.md"
         ]
     }
 ]
