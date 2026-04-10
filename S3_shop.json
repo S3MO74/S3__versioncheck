@@ -1,0 +1,18 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Initial S3_shop release"
+        ],
+        "updateFiles": [
+            "fxmanifest.lua",
+            "config.lua",
+            "lang.lua",
+            "shared/framework.lua",
+            "client/client.lua",
+            "server/server.lua",
+            "server/versionchecker.lua",
+            "README.md"
+        ]
+    }
+]
