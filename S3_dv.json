@@ -1,0 +1,15 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Initial S3_dv release"
+        ],
+        "updateFiles": [
+            "fxmanifest.lua",
+            "config.lua",
+            "client/client.lua",
+            "server/versionchecker.lua",
+            "README.md"
+        ]
+    }
+]
