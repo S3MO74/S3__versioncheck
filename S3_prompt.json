@@ -1,0 +1,17 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Restructured S3_prompt into client, shared, and server folders",
+            "Added configurable Q/G prompt flow for cycling and executing animations",
+            "Added README and built-in version checker"
+        ],
+        "updateFiles": [
+            "fxmanifest.lua",
+            "shared/config.lua",
+            "client/client.lua",
+            "server/versionchecker.lua",
+            "README.md"
+        ]
+    }
+]
