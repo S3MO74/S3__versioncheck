@@ -2,7 +2,7 @@
     {
         "version": "1.0.0",
         "changelog": [
-             "Initial S3_npcdoc release"
+             "Initial S3_prompt release"
         ],
         "updateFiles": [
             "fxmanifest.lua",
