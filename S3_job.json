@@ -1,0 +1,17 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Initial S3_job release"
+        ],
+        "updateFiles": [
+            "fxmanifest.lua",
+            "shared/config.lua",
+            "shared/framework.lua",
+            "client/client.lua",
+            "server/versionchecker.lua",
+            "server/server.lua",
+            "README.md"
+        ]
+    }
+]
