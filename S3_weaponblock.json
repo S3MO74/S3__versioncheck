@@ -1,0 +1,17 @@
+[
+    {
+        "version": "1.0.0",
+        "changelog": [
+            "Initial S3_weaponblock release"
+        ],
+        "updateFiles": [
+            "fxmanifest.lua",
+            "config.lua",
+            "client/client.lua",
+            "server/server.lua",
+            "server/versionchecker.lua",
+            "README.md",
+            "s3_weaponblock.sql"
+        ]
+    }
+]
